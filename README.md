@@ -3,6 +3,7 @@
 | [010 Editor](https://www.sweetscape.com/010editor/)                    | [14.0](https://github.com/testpatch/APP-macOS/releases/download/010editor_14.0/010editor_14.0.7z)                                 | 十六进制编辑器     |
 | [App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner)       | [8.2.4](https://github.com/testpatch/APP-macOS/releases/download/AppCleaner%26Uninstaller_8.2.4/App.Cleaner.Uninstaller_8.2.4.7z) | 卸载程序和清洁助手 |
 | [Bartender](https://www.macbartender.com/)                             | [5.0.44](https://github.com/testpatch/APP-macOS/releases/download/Bartender_5.0.44/Bartender_5.0.44.7z)                           | 自定义菜单栏       |
+| [Beyond Compare](https://www.scootersoftware.com/)                     | [4.4.7.28397](https://github.com/testpatch/APP-macOS/releases/download/BCompareOSX-4.4.7.28397/BCompareOSX-4.4.7.28397.7z)        | 数据比较           |
 | [Downie](https://software.charliemonroe.net/downie/)                   | [4.4653](https://github.com/testpatch/APP-macOS/releases/download/Downie_4_4653/Downie_4_4653.7z)                                 | 网络视频下载       |
 | [Menuwhere](https://manytricks.com/menuwhere/)                         | [2.2.1](https://github.com/testpatch/APP-macOS/releases/download/Menuwhere_2.2.1/Menuwhere_2.2.1.7z)                              | 自定义菜单         |
 | [Monodraw](https://monodraw.helftone.com/)                             | [1.6.1](https://github.com/testpatch/APP-macOS/releases/download/Monodraw_1.6.1/Monodraw_1.6.1.7z)                                | ASCII 艺术编辑器   |
