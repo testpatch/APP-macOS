@@ -1,5 +1,5 @@
-|                             软件                             |    版本     |        备注        |
-| :----------------------------------------------------------: | :---------: | :----------------: |
+| 软件                                                         |    版本     |        备注        |
+| :----------------------------------------------------------- | :---------: | :----------------: |
 | [010 Editor](https://github.com/testpatch/APP-macOS/releases/tag/010Editor) |    14.0     |   十六进制编辑器   |
 | [App Cleaner & Uninstaller](https://github.com/testpatch/APP-macOS/releases/tag/AppCleaner%26Uninstaller) |    8.2.4    | 卸载程序和清洁助手 |
 | [Bartender](https://github.com/testpatch/APP-macOS/releases/tag/Bartender) |   5.0.44    |    自定义菜单栏    |
