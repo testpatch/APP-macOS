@@ -1,14 +1,14 @@
-| 软件                                                                   | 版本                                                                                                                              | 备注               |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [010 Editor](https://www.sweetscape.com/010editor/)                    | [14.0](https://github.com/testpatch/APP-macOS/releases/download/010editor_14.0/010editor_14.0.7z)                                 | 十六进制编辑器     |
-| [App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner)       | [8.2.4](https://github.com/testpatch/APP-macOS/releases/download/AppCleaner%26Uninstaller_8.2.4/App.Cleaner.Uninstaller_8.2.4.7z) | 卸载程序和清洁助手 |
-| [Bartender](https://www.macbartender.com/)                             | [5.0.44](https://github.com/testpatch/APP-macOS/releases/download/Bartender_5.0.44/Bartender_5.0.44.7z)                           | 自定义菜单栏       |
-| [Beyond Compare](https://www.scootersoftware.com/)                     | [4.4.7.28397](https://github.com/testpatch/APP-macOS/releases/download/BCompareOSX-4.4.7.28397/BCompareOSX-4.4.7.28397.7z)        | 数据比较           |
-| [Downie](https://software.charliemonroe.net/downie/)                   | [4.4653](https://github.com/testpatch/APP-macOS/releases/download/Downie_4_4653/Downie_4_4653.7z)                                 | 网络视频下载       |
-| [Menuwhere](https://manytricks.com/menuwhere/)                         | [2.2.1](https://github.com/testpatch/APP-macOS/releases/download/Menuwhere_2.2.1/Menuwhere_2.2.1.7z)                              | 自定义菜单         |
-| [Monodraw](https://monodraw.helftone.com/)                             | [1.6.1](https://github.com/testpatch/APP-macOS/releases/download/Monodraw_1.6.1/Monodraw_1.6.1.7z)                                | ASCII 艺术编辑器   |
-| [Movist Pro](https://movistprime.com/)                                 | [2.11.2](https://github.com/testpatch/APP-macOS/releases/download/MovistPro_2.11.2/MovistPro_2.11.2.7z)                           | 媒体播放器         |
-| [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) | [16.3.2](https://github.com/testpatch/APP-macOS/releases/download/NavicatPremium_16.3.2_CN/NavicatPremium_16.3.2_CN.7z)           | 数据库开发工具     |
-| [Parallels Desktop](https://www.parallels.com/products/desktop/)       | [18.1.1](https://github.com/testpatch/APP-macOS/releases/download/ParallelsDesktop_18.1.1/ParallelsDesktop_18.1.1.7z)             | 虚拟机             |
-| [Permute](https://software.charliemonroe.net/permute/)                 | [3.2723](https://github.com/testpatch/APP-macOS/releases/download/Permute_3_2723/Permute_3_2723.7z)                               | 媒体文件格式转换   |
-| [Proxyman](https://proxyman.io/)                                       | [4.9.0](https://github.com/testpatch/APP-macOS/releases/download/Proxyman_4.9.0/Proxyman_4.9.0.7z)                                | 网络调试工具       |
+|                             软件                             |    版本     |        备注        |
+| :----------------------------------------------------------: | :---------: | :----------------: |
+| [010 Editor](https://github.com/testpatch/APP-macOS/releases/tag/010Editor) |    14.0     |   十六进制编辑器   |
+| [App Cleaner & Uninstaller](https://github.com/testpatch/APP-macOS/releases/tag/AppCleaner%26Uninstaller) |    8.2.4    | 卸载程序和清洁助手 |
+| [Bartender](https://github.com/testpatch/APP-macOS/releases/tag/Bartender) |   5.0.44    |    自定义菜单栏    |
+| [Beyond Compare](https://github.com/testpatch/APP-macOS/releases/tag/BeyondCompare) | 4.4.7.28397 |      数据比较      |
+| [Downie](https://github.com/testpatch/APP-macOS/releases/tag/Downie) |   4.4653    |    网络视频下载    |
+| [Menuwhere](https://github.com/testpatch/APP-macOS/releases/tag/Menuwhere) |    2.2.1    |     自定义菜单     |
+| [Monodraw](https://github.com/testpatch/APP-macOS/releases/tag/Monodraw) |    1.6.1    |  ASCII 艺术编辑器  |
+| [Movist Pro](https://github.com/testpatch/APP-macOS/releases/tag/MovistPro) |   2.11.2    |     媒体播放器     |
+| [Navicat Premium](https://github.com/testpatch/APP-macOS/releases/tag/NavicatPremium) |   16.3.2    |   数据库开发工具   |
+| [Parallels Desktop](https://github.com/testpatch/APP-macOS/releases/tag/ParallelsDesktop) |   18.1.1    |       虚拟机       |
+| [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute) |   3.2723    |  媒体文件格式转换  |
+| [Proxyman](https://github.com/testpatch/APP-macOS/releases/tag/Proxyman) |    4.9.0    |    网络调试工具    |
