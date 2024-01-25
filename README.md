@@ -13,7 +13,7 @@
 | [Movist Pro](https://github.com/testpatch/APP-macOS/releases/tag/MovistPro)                               |   2.11.2    |      媒体播放器      |
 | [Mp3tag](https://github.com/testpatch/APP-macOS/releases/tag/Mp3tag)                                      |    1.5.2    | 编辑音频文件的元数据 |
 | [Navicat Premium](https://github.com/testpatch/APP-macOS/releases/tag/NavicatPremium)                     |   16.3.2    |    数据库开发工具    |
-| [Office(Word/Excel/PPT)](https://github.com/testpatch/APP-macOS/releases/tag/Office)                      |      16.81 (24011420)      |       办公软件       |
+| [Office(Word/Excel/PPT)](https://github.com/testpatch/APP-macOS/releases/tag/Office)                      |      16.81   |       办公软件       |
 | [Parallels Desktop](https://github.com/testpatch/APP-macOS/releases/tag/ParallelsDesktop)                 |   18.1.1    |        虚拟机        |
 | [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute)                                    |   3.2723    |   媒体文件格式转换   |
 | [Proxyman](https://github.com/testpatch/APP-macOS/releases/tag/Proxyman)                                  |    4.9.0    |     网络调试工具     |
