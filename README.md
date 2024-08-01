@@ -7,7 +7,7 @@
 | [Beyond Compare](https://github.com/testpatch/APP-macOS/releases/tag/BeyondCompare)                           | 4.4.7.28397 |       数据比较       |
 | [CleanShot X](https://github.com/testpatch/APP-macOS/releases/download/CleanShotX/CleanShotX_4.6.2_Ked.7z)    |    4.6.2    |         截图工具         |
 | [Downie](https://github.com/testpatch/APP-macOS/releases/tag/Downie)                                          |   4.4653    |     网络视频下载     |
-| [JumpDesktop](https://github.com/testpatch/APP-macOS/releases/tag/JumpDesktop) |   8.10.4    |   远程桌面应用程序   |
+| [JumpDesktop](https://github.com/testpatch/APP-macOS/releases/tag/JumpDesktop) |   8.10.8    |   远程桌面应用程序   |
 | [LilyView](https://github.com/testpatch/APP-macOS/releases/tag/LilyView)                                      |     1.6     |      图片查看器      |
 | [Menuwhere](https://github.com/testpatch/APP-macOS/releases/tag/Menuwhere)                                    |    2.2.1    |      自定义菜单      |
 | [Monodraw](https://github.com/testpatch/APP-macOS/releases/tag/Monodraw)                                      |    1.6.1    |   ASCII 艺术编辑器   |
