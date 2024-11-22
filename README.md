@@ -20,4 +20,5 @@
 | [Parallels Desktop](https://github.com/testpatch/APP-macOS/releases/tag/ParallelsDesktop)                 |     虚拟机     |
 | [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute)                                    |  媒体文件格式转换   |
 | [Proxyman](https://github.com/testpatch/APP-macOS/releases/tag/Proxyman)                                  |   网络调试工具    |
+| [Shottr](https://github.com/testpatch/APP-macOS/releases/tag/Shottr)                                      |    截图工具     |
 | [Xmind](https://github.com/testpatch/APP-macOS/releases/tag/Xmind)                                        |    思维导图     |
