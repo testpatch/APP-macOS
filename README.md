@@ -22,6 +22,8 @@
 | [Office(Word/Excel/PPT)](https://github.com/testpatch/APP-macOS/releases/tag/Office)                      |        办公软件        |
 | [Parallels Desktop](https://github.com/testpatch/APP-macOS/releases/tag/ParallelsDesktop)                 |        虚拟机         |
 | [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute)                                    |      媒体文件格式转换      |
+| [PopClip](https://github.com/testpatch/APP-macOS/releases/tag/PopClip)                                    |     Mac 文本操作菜单     |
 | [Proxyman](https://github.com/testpatch/APP-macOS/releases/tag/Proxyman)                                  |       网络调试工具       |
 | [Shottr](https://github.com/testpatch/APP-macOS/releases/tag/Shottr)                                      |        截图工具        |
+| [SteerMouse](https://github.com/testpatch/APP-macOS/releases/tag/SteerMouse)                              |  自定义鼠标按钮、滚轮和光标速度   |
 | [Xmind](https://github.com/testpatch/APP-macOS/releases/tag/Xmind)                                        |        思维导图        |
