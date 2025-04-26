@@ -9,6 +9,7 @@
 | [Beyond Compare](https://github.com/testpatch/APP-macOS/releases/tag/BeyondCompare)                       |        数据比较        |
 | [CleanShot X](https://github.com/testpatch/APP-macOS/releases/tag/CleanShotX)                             |        截图工具        |
 | [DaisyDisk](https://github.com/testpatch/APP-macOS/releases/tag/DaisyDisk)                                |        磁盘清理        |
+| [DMG Canvas](https://github.com/testpatch/APP-macOS/releases/tag/DMGCanvas)                               |    简单创建.dmg 文件     |
 | [Downie](https://github.com/testpatch/APP-macOS/releases/tag/Downie)                                      |       网络视频下载       |
 | [DropDMG](https://github.com/testpatch/APP-macOS/releases/tag/DropDMG)                                    |    简单创建.dmg 文件     |
 | [Infuse](https://github.com/testpatch/APP-macOS/releases/tag/Infuse)                                      |       视频播放器        |
