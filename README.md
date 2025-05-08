@@ -13,6 +13,7 @@
 | [Downie](https://github.com/testpatch/APP-macOS/releases/tag/Downie)                                      |       网络视频下载       |
 | [DropDMG](https://github.com/testpatch/APP-macOS/releases/tag/DropDMG)                                    |    简单创建.dmg 文件     |
 | [Infuse](https://github.com/testpatch/APP-macOS/releases/tag/Infuse)                                      |       视频播放器        |
+| [iShot](https://github.com/testpatch/APP-macOS/releases/tag/iShot)                                        |        截图工具        |
 | [JumpDesktop](https://github.com/testpatch/APP-macOS/releases/tag/JumpDesktop)                            |      远程桌面应用程序      |
 | [LilyView](https://github.com/testpatch/APP-macOS/releases/tag/LilyView)                                  |       图片查看器        |
 | [MacDroid](https://github.com/testpatch/APP-macOS/releases/tag/MacDroid)                                  | Mac 与 Android 文件传输 |
