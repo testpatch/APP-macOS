@@ -23,6 +23,7 @@
 | [Mp3tag](https://github.com/testpatch/APP-macOS/releases/tag/Mp3tag)                                      |     编辑音频文件的元数据     |
 | [Navicat Premium](https://github.com/testpatch/APP-macOS/releases/tag/NavicatPremium)                     |      数据库开发工具       |
 | [Office(Word/Excel/PPT)](https://github.com/testpatch/APP-macOS/releases/tag/Office)                      |        办公软件        |
+| [OmniConverter](https://github.com/testpatch/APP-macOS/releases/tag/OmniConverter)                        |      视频格式转换器       |
 | [Package Builder](https://github.com/testpatch/APP-macOS/releases/tag/PackageBuilder)                     |       构建 pkg       |
 | [Parallels Desktop](https://github.com/testpatch/APP-macOS/releases/tag/ParallelsDesktop)                 |        虚拟机         |
 | [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute)                                    |      媒体文件格式转换      |
