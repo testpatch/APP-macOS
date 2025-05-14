@@ -26,6 +26,7 @@
 | [OmniConverter](https://github.com/testpatch/APP-macOS/releases/tag/OmniConverter)                        |      视频格式转换器       |
 | [Package Builder](https://github.com/testpatch/APP-macOS/releases/tag/PackageBuilder)                     |       构建 pkg       |
 | [Parallels Desktop](https://github.com/testpatch/APP-macOS/releases/tag/ParallelsDesktop)                 |        虚拟机         |
+| [PDF Expert](https://github.com/testpatch/APP-macOS/releases/tag/PDFExpert)                               |      PDF 编辑器       |
 | [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute)                                    |      媒体文件格式转换      |
 | [PopClip](https://github.com/testpatch/APP-macOS/releases/tag/PopClip)                                    |     Mac 文本操作菜单     |
 | [Proxyman](https://github.com/testpatch/APP-macOS/releases/tag/Proxyman)                                  |       网络调试工具       |
