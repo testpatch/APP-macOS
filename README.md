@@ -21,6 +21,7 @@
 | [Monodraw](https://github.com/testpatch/APP-macOS/releases/tag/Monodraw)                                  |    ASCII 艺术编辑器     |
 | [Movist Pro](https://github.com/testpatch/APP-macOS/releases/tag/MovistPro)                               |       媒体播放器        |
 | [Mp3tag](https://github.com/testpatch/APP-macOS/releases/tag/Mp3tag)                                      |     编辑音频文件的元数据     |
+| [Multitouch](https://github.com/testpatch/APP-macOS/releases/tag/Multitouch)                              |       触控板手势        |
 | [Navicat Premium](https://github.com/testpatch/APP-macOS/releases/tag/NavicatPremium)                     |      数据库开发工具       |
 | [Office(Word/Excel/PPT)](https://github.com/testpatch/APP-macOS/releases/tag/Office)                      |        办公软件        |
 | [OmniConverter](https://github.com/testpatch/APP-macOS/releases/tag/OmniConverter)                        |      视频格式转换器       |
