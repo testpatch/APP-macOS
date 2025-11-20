@@ -9,6 +9,7 @@
 | [Beyond Compare](https://github.com/testpatch/APP-macOS/releases/tag/BeyondCompare)                       |        数据比较        |
 | [CleanShot X](https://github.com/testpatch/APP-macOS/releases/tag/CleanShotX)                             |        截图工具        |
 | [DaisyDisk](https://github.com/testpatch/APP-macOS/releases/tag/DaisyDisk)                                |        磁盘清理        |
+| [DevUtils](https://github.com/testpatch/APP-macOS/releases/tag/DevUtils)                                  |       开发者工具箱       |
 | [DMG Canvas](https://github.com/testpatch/APP-macOS/releases/tag/DMGCanvas)                               |       构建 dmg       |
 | [Downie](https://github.com/testpatch/APP-macOS/releases/tag/Downie)                                      |       网络视频下载       |
 | [DropDMG](https://github.com/testpatch/APP-macOS/releases/tag/DropDMG)                                    |       构建 dmg       |
@@ -23,6 +24,7 @@
 | [Mp3tag](https://github.com/testpatch/APP-macOS/releases/tag/Mp3tag)                                      |     编辑音频文件的元数据     |
 | [Multitouch](https://github.com/testpatch/APP-macOS/releases/tag/Multitouch)                              |       触控板手势        |
 | [Navicat Premium](https://github.com/testpatch/APP-macOS/releases/tag/NavicatPremium)                     |      数据库开发工具       |
+| [NeoServer](https://github.com/testpatch/APP-macOS/releases/tag/NeoServer)                                |      SSH 客户端       |
 | [Office(Word/Excel/PPT)](https://github.com/testpatch/APP-macOS/releases/tag/Office)                      |        办公软件        |
 | [OmniConverter](https://github.com/testpatch/APP-macOS/releases/tag/OmniConverter)                        |      视频格式转换器       |
 | [Package Builder](https://github.com/testpatch/APP-macOS/releases/tag/PackageBuilder)                     |       构建 pkg       |
