@@ -33,6 +33,7 @@
 | [Permute](https://github.com/testpatch/APP-macOS/releases/tag/Permute)                                    |      媒体文件格式转换      |
 | [PopClip](https://github.com/testpatch/APP-macOS/releases/tag/PopClip)                                    |     Mac 文本操作菜单     |
 | [Proxyman](https://github.com/testpatch/APP-macOS/releases/tag/Proxyman)                                  |       网络调试工具       |
+| [ShareMouse](https://github.com/testpatch/APP-macOS/releases/tag/ShareMouse)                              |   多台电脑共用一套鼠标和键盘    |
 | [Shottr](https://github.com/testpatch/APP-macOS/releases/tag/Shottr)                                      |        截图工具        |
 | [SteerMouse](https://github.com/testpatch/APP-macOS/releases/tag/SteerMouse)                              |  自定义鼠标按钮、滚轮和光标速度   |
 | [Sublime Text](https://github.com/testpatch/APP-macOS/releases/tag/SublimeText)                           |       文本编辑器        |
